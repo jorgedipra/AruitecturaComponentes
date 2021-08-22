@@ -23,7 +23,8 @@ class editor {
                         <a href="#" id="dwn-btn" onclick="comprimir()"  class="btn btn-primary">Descargar como .zip</a>
                     </div>
                     <div class="card-footer text-muted">
-                    @jorgedipra
+                    @jorgedipra 
+                    <a href="https://github.com/jorgedipra/AruitecturaComponentes"target="_blank"  class="btn btn btn-secondary">ver Codigo en git <img id="github" src="./img/github.png" alt="github"></a>
                     </div>
                     </div>
 
